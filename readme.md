@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=5JnaMiw7aIc
 WebApp Link:
 https://e-analytics.herokuapp.com/
 
-##Category:
+## Category:
 IBM Cloud Application
 
 ## Skills Required:
