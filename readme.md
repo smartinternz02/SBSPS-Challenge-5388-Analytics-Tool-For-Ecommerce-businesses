@@ -1,11 +1,14 @@
 SBSPS-Challenge-5388-Analytics-Tool-For-Ecommerce-businesses
-##### WebApp Name: e-analytics
+WebApp Name: e-analytics
 
 Demonstration Video:
 https://www.youtube.com/watch?v=5JnaMiw7aIc
 
 WebApp Link:
 https://e-analytics.herokuapp.com/
+
+Refer Project-Dashboard.pdf
+Refer Project-Report.pdf
 
 ## Category:
 IBM Cloud Application
