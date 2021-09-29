@@ -4,6 +4,9 @@ WebApp Name: e-analytics
 Demonstration Video:
 https://www.youtube.com/watch?v=5JnaMiw7aIc
 
+Hosted on IBM Cloud:
+https://e-analytics-tired-springhare-rs.au-syd.mybluemix.net/
+
 WebApp Link:
 https://e-analytics.herokuapp.com/
 
